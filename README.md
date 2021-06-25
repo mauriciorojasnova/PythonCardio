@@ -1,4 +1,4 @@
-# PythonCardio
+# Hagamos cardio con Python
 
 Ejercicios básicos de programación para practicar python. Estos ejemplos hacen parte del challenge "Datacademy" de Platzi.
 
