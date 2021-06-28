@@ -2,6 +2,8 @@
 
 Ejercicios básicos de programación para practicar python. Estos ejemplos hacen parte del challenge "Datacademy" de Platzi.
 
+Los bonus son opcionales.
+
 ## Reto 1
 
 Es momento de poner ese conocimiento a la práctica. El área de un triángulo se describe de la siguiente manera: A = (b * h) / 2 .
@@ -18,7 +20,7 @@ Bonus: determina que el ganador sea el jugador que gane 2 de 3 encuentros.
 
 ## Reto 3
 
-magina que quieres calcular los kilómetros que son cierta cantidad de millas. Para no estar repitiendo este cálculo escribe un programa en que el usuario indique una cantidad de millas y en pantalla se muestre el resultado convertido a kilómetros.
+Imagina que quieres calcular los kilómetros que son cierta cantidad de millas. Para no estar repitiendo este cálculo escribe un programa en que el usuario indique una cantidad de millas y en pantalla se muestre el resultado convertido a kilómetros.
 
 Toma en cuenta que en cada milla hay 1.609344 Km
 
